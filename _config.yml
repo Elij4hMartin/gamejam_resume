@@ -1,14 +1,15 @@
-title: Palin_drome or Elijah Martin  # You can add your name here
+title: Elijah Martin A.K.A Palin_drome # You can add your name here
 
 logo: discordPF.png # Use a relative path to logo image 
 
-description: A list of all jams I have participated in
+itch: palin-drome.itch.io
+
+description: A list of all jams I have participated in and their placements
 
 show_downloads: false 
 
-theme: jekyll-theme-minimal 
+remote_theme: pages-themes/hacker@v0.2.0
 
 plugins:
-  - jekyll-seo-tag # Add SEO plugin
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 
-itch: palin-drome.itch.io
