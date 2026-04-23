@@ -8,7 +8,7 @@
 - Art: low poly 3D modeling, basic map design, pixel art. I have two games where I did all of the art [1](https://palin-drome.itch.io/blasterpower) [2](https://palin-drome.itch.io/super-pompadour-kart-64)
 - Music: Mainly basic guitar pieces, I am an intermediate classical/fingerstyle player and a more beginner level electric guitar player. I have [one game](https://palin-drome.itch.io/super-pompadour-kart-64) where I made all the music.
 
-### This game isn't as highly rated in terms of placement but I personally see it as my best jam game and demonstration of coding/design/pixel art & shader writing skills
+### This game isn't as highly rated in terms of placement but I personally see it as one of my best jam games and showcases design, pixel art & shader writing skills
 - [Blaster Power](https://palin-drome.itch.io/blasterpower) from the 2025 BIGMODE Jam
 
 ## Game Jams
