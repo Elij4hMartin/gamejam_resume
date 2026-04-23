@@ -4,7 +4,7 @@ logo: discordPF.png # Use a relative path to logo image
 
 description: A list of all jams I have participated in
 
-show_downloads: true # Fix spelling
+show_downloads: false 
 
 theme: jekyll-theme-minimal 
 
