@@ -36,7 +36,7 @@
 - Time limit: 72 hours
 - Some original art with original SFX
 
-## 🍕Pizza Doggy's #3
+### 🍕Pizza Doggy's #3
 - [Parasite Blaster](https://palin-drome.itch.io/parasite-blaster)
 - **6th in Pacing out of 113**
 - [Full Results]
