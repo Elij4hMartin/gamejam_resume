@@ -39,7 +39,7 @@
 ### 🍕Pizza Doggy's #3
 - [Parasite Blaster](https://palin-drome.itch.io/parasite-blaster)
 - **6th in Pacing out of 113**
-- [Full Results]
+- [Full Results](https://itch.io/jam/pizza-doggys-horror-jam-3/rate/4012348)
 - Time limit
 - **Team Leader** (3 members)
 - Time limit ~2 weeks
