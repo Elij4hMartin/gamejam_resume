@@ -53,7 +53,7 @@
 ### SCREAM JAM 2025
 - [Serve the Dead](https://jaydenhawkes123.itch.io/serve-the-dead)
 - **72nd in Story out of 943** [Full Results](https://itch.io/jam/scream-jam-2025/rate/3966079)
--  Time limit: one week
 -  Team member (5 developers with 2 guest members to do voice acting), but had take act more as a leader towards the end of the project to make sure everyone had their work included in the final version.
+-  Time limit: one week
 -  Additional notes: needed to teach some members missing skills, like teaching Papperkun how to setup and design simple models to be rigged and animated.
 -  Made a system to allow patrons to come in unique groups and place orders. (this game was extremely ambitious for a jam game)
