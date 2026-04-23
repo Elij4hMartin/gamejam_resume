@@ -26,7 +26,7 @@
 - [Full Results](https://itch.io/jam/scream-forever/rate/3670842)
 - Team leader (2 members)
 - Time limit: one week
-- Made custom physics system for fishing line
+- Made a custom physics system for fishing line
 
 ### ScoreSpace SpeedJam #7
 - [Asteroid Scavenger](https://palin-drome.itch.io/asteroid-scavenger)
