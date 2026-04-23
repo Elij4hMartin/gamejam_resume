@@ -1,4 +1,5 @@
-## itch.io page: [Palin_drome](https://palin-drome.itch.io/)
+# [Palin_drome](https://palin-drome.itch.io/)'s skills & jam games
+
 ## Skills
 - 2.5 years professional experience as an electrical engineer/test technician (not game dev but programming adjacent, mainly scripting)
 - Have been a game jammer for almost two years at this point (exclusively in Godot mainly in 3D)
@@ -7,10 +8,11 @@
 - Art: low poly 3D modeling, basic map design, pixel art. I have two games where I did all of the art [1](https://palin-drome.itch.io/blasterpower) [2](https://palin-drome.itch.io/super-pompadour-kart-64)
 - Music: Mainly basic guitar pieces, I am an intermediate classical/fingerstyle player and a more beginner level electric guitar player. I have [one game](https://palin-drome.itch.io/super-pompadour-kart-64) where I made all the music.
 
-#### This game isn't as highly rated in terms of placement but I personally see it as my best jam game and demonstration of coding/design/pixel art & shader writing skills
+### This game isn't as highly rated in terms of placement but I personally see it as my best jam game and demonstration of coding/design/pixel art & shader writing skills
 - [Blaster Power](https://palin-drome.itch.io/blasterpower) from the 2025 BIGMODE Jam
 
 ## Game Jams
+
 ### PolyMars x ScoreSpace
 - [Blaster Meltdown](https://palin-drome.itch.io/blaster-meltdown)
 - **3rd place (WINNER) out of 350** [Full Results](https://itch.io/jam/polymarsxspeedjam/results/3rd-place)
