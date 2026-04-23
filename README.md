@@ -1,3 +1,4 @@
+## itch.io page: [Palin_drome](https://palin-drome.itch.io/)
 ## Skills
 - 2.5 years professional experience as an electrical engineer/test technician (not game dev but programming adjacent, mainly scripting)
 - Have been a game jammer for almost two years at this point (exclusively in Godot mainly in 3D)
