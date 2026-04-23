@@ -1,6 +1,3 @@
-# Palin_drome / Elijah Martin jam resume
-## A compilation of jams I have participated with a brief about my skillset
-
 ## Skills
 - 2.5 years professional experience as an electrical engineer/test technician (not game dev but programming adjacent, mainly scripting)
 - Have been a game jammer for almost two years at this point (exclusively in Godot mainly in 3D)
