@@ -12,51 +12,45 @@
 ## Game Jams
 ### PolyMars x ScoreSpace
 - [Blaster Meltdown](https://palin-drome.itch.io/blaster-meltdown)
-- **3rd place (WINNER) out of 350**
-- [Full Results](https://itch.io/jam/polymarsxspeedjam/results/3rd-place)
+- **3rd place (WINNER) out of 350** [Full Results](https://itch.io/jam/polymarsxspeedjam/results/3rd-place)
 - Solo project
 - Time limit: 72 hours
+- Additional notes: first game I completed & first jam I ever particiated in, has an online leaderboard.
 
 ### SCREAM FOREVER
 - [Moonlit Fishing](https://palin-drome.itch.io/moonlit-fishing)
-- **2nd in Enjoyment (Best Game) out of 76**
-- [Full Results](https://itch.io/jam/scream-forever/rate/3670842)
+- **2nd in Enjoyment (Best Game) out of 76** [Full Results](https://itch.io/jam/scream-forever/rate/3670842)
 - Team leader (2 members)
 - Time limit: one week
-- Made a custom physics system for fishing line
+- Additional notes: made a custom physics system for fishing line.
 
 ### ScoreSpace SpeedJam #7
 - [Asteroid Scavenger](https://palin-drome.itch.io/asteroid-scavenger)
-- **2nd in Overall and 1st in Sound out of 70**
-- [Full Results](https://itch.io/jam/speedjam7/rate/3006958)
+- **2nd in Overall and 1st in Sound out of 70** [Full Results](https://itch.io/jam/speedjam7/rate/3006958)
 - Solo project
 - Time limit: 72 hours
-- Some original art with original SFX
+- Additional notes: very basic original art with original SFX, has an online leaderboard.
 
 ### 🍕Pizza Doggy's #3
 - [Parasite Blaster](https://palin-drome.itch.io/parasite-blaster)
-- **6th in Pacing out of 113**
-- [Full Results](https://itch.io/jam/pizza-doggys-horror-jam-3/rate/4012348)
-- Time limit
+- **6th in Pacing out of 113** [Full Results](https://itch.io/jam/pizza-doggys-horror-jam-3/rate/4012348)
 - **Team Leader** (3 members)
 - Time limit ~2 weeks
-- Designed the levels which unfortanely meant I couldn't work with the artist to help make 3D models using their art as reference.
+- Additional notes: designed the levels which unfortanely meant I couldn't work with the artist to help make 3D models using their art as reference.
 - Includes in its current form place holder art I made, and has a particle pooling system I implemented to mitigate stuttering.
 
 ### SCREAM JAM 2024
 - [Brain-Scattered](https://genericbonk.itch.io/brain-scattered)
-- **53rd in Enjoyment (Best Game) out of 549**
-- [Full Results](https://itch.io/jam/scream-jam-2024/rate/3056195)
+- **53rd in Enjoyment (Best Game) out of 549** [Full Results](https://itch.io/jam/scream-jam-2024/rate/3056195)
 - Team member (3 members)
 - Time limit: one week
-- Worked with the designer to implement their ideas as I did the coding. 
+- Additional notes: worked with the designer to implement their ideas as I did the coding, and we exchanged feedback/planning. 
 - Made a rope physics system and FPS object interaction system for picking up objects, video on [YT](https://www.youtube.com/watch?v=K8SLWUsPFNY).
 
 ### SCREAM JAM 2025
 - [Serve the Dead](https://jaydenhawkes123.itch.io/serve-the-dead)
-- **72nd in Story out of 943**
-- [Full Results](https://itch.io/jam/scream-jam-2025/rate/3966079)
+- **72nd in Story out of 943** [Full Results](https://itch.io/jam/scream-jam-2025/rate/3966079)
 -  Time limit: one week
 -  Team member (5 developers with 2 guest members to do voice acting), but had take act more as a leader towards the end of the project to make sure everyone had their work included in the final version.
--  Needed to teach some members missing skills, like teaching Papperkun how to setup and design simple models to be rigged and animated.
--  Made a system to allow patrons to come in unique groups and place orders.
+-  Additional notes: needed to teach some members missing skills, like teaching Papperkun how to setup and design simple models to be rigged and animated.
+-  Made a system to allow patrons to come in unique groups and place orders. (this game was extremely ambitious for a jam game)
