@@ -8,6 +8,7 @@
 - Music: Mainly basic guitar pieces, I am an intermediate classical/fingerstyle player and a more beginner level electric guitar player.
 
 ## Experience
-**3rd place (WINNER)**
+**3rd place (WINNER) out of 350**
 - Solo project
-- <iframe frameborder="0" src="https://itch.io/embed/2858534?bg_color=fb3573&amp;link_color=000000" width="552" height="167"><a href="https://palin-drome.itch.io/blaster-meltdown">Blaster Meltdown by Palin_drome</a></iframe>
+- [Blaster Meltdown](https://palin-drome.itch.io/blaster-meltdown)
+- [Full Results](https://itch.io/jam/polymarsxspeedjam/results/3rd-place)
