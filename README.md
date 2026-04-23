@@ -1,9 +1,9 @@
 # Palin_drome / Elijah Martin jam resume
-## A list of all jams I have participated in with links and a brief of skillset
+## A compilation of jams I have participated with a brief about my skillset
 
 ## Skills
 - 2.5 years professional experience as a electrical engineer/test technician (not game dev but programming adjacent, mainly scripting)
-- Have been a game jammer for almost two years at this point (exclusively in Godot)
+- Have been a game jammer for almost two years at this point (exclusively in Godot mainly in 3D)
 - Programming languages: GDScript as primary (Godot's python like programming language), and I have used C/C++ & Python in professional and university environments
 - Experience making addons & tools: I have made this midly popular addon for Godot [7K views youtube video](https://www.youtube.com/watch?v=2hXNkVEJu10&t=1s)
 - Art: low poly 3D modeling, basic map design, pixel art. I have several games where I did all of the art including 3D modeling.
