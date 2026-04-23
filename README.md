@@ -56,7 +56,7 @@
 - Made a rope physics system and FPS object interaction system for picking up objects, video on [YT](https://www.youtube.com/watch?v=K8SLWUsPFNY).
 
 ### SCREAM JAM 2025
-- [Serce the Dead](https://jaydenhawkes123.itch.io/serve-the-dead)
+- [Serve the Dead](https://jaydenhawkes123.itch.io/serve-the-dead)
 - **72nd in Story out of 943**
 - [Full Results](https://itch.io/jam/scream-jam-2025/rate/3966079)
 -  Time limit: one week
