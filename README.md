@@ -9,7 +9,7 @@
 - Art: low poly 3D modeling, basic map design, pixel art. I have several games where I did all of the art including 3D modeling.
 - Music: Mainly basic guitar pieces, I am an intermediate classical/fingerstyle player and a more beginner level electric guitar player.
 
-## This game isn't as highly rated in terms of placement but I personally see it as my best jam game and demonstration of coding/design/pixel art & shader writing skills
+#### This game isn't as highly rated in terms of placement but I personally see it as my best jam game and demonstration of coding/design/pixel art & shader writing skills
 - [Blaster Power](https://palin-drome.itch.io/blasterpower) from the 2025 BIGMODE Jam
 
 ## Experience
@@ -55,7 +55,7 @@
 - Worked with the designer to implement their ideas as I did the coding. 
 - Made a rope physics system and FPS object interaction system for picking up objects, video on [YT](https://www.youtube.com/watch?v=K8SLWUsPFNY).
 
-## SCREAM JAM 2025
+### SCREAM JAM 2025
 - [Serce the Dead](https://jaydenhawkes123.itch.io/serve-the-dead)
 - **72nd in Story out of 943**
 - [Full Results](https://itch.io/jam/scream-jam-2025/rate/3966079)
