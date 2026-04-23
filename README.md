@@ -2,17 +2,17 @@
 ## A compilation of jams I have participated with a brief about my skillset
 
 ## Skills
-- 2.5 years professional experience as a electrical engineer/test technician (not game dev but programming adjacent, mainly scripting)
+- 2.5 years professional experience as an electrical engineer/test technician (not game dev but programming adjacent, mainly scripting)
 - Have been a game jammer for almost two years at this point (exclusively in Godot mainly in 3D)
 - Programming languages: GDScript as primary (Godot's python like programming language), and I have used C/C++ & Python in professional and university environments
-- Experience making addons & tools: I have made this midly popular addon for Godot [7K views youtube video](https://www.youtube.com/watch?v=2hXNkVEJu10&t=1s)
+- Experience making addons & tools: I have made this mildly popular addon for Godot [7K views youtube video](https://www.youtube.com/watch?v=2hXNkVEJu10&t=1s)
 - Art: low poly 3D modeling, basic map design, pixel art. I have several games where I did all of the art including 3D modeling.
 - Music: Mainly basic guitar pieces, I am an intermediate classical/fingerstyle player and a more beginner level electric guitar player.
 
 #### This game isn't as highly rated in terms of placement but I personally see it as my best jam game and demonstration of coding/design/pixel art & shader writing skills
 - [Blaster Power](https://palin-drome.itch.io/blasterpower) from the 2025 BIGMODE Jam
 
-## Experience
+## Game Jams
 ### PolyMars x ScoreSpace
 - [Blaster Meltdown](https://palin-drome.itch.io/blaster-meltdown)
 - **3rd place (WINNER) out of 350**
